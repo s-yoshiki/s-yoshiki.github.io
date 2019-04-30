@@ -2,7 +2,6 @@
 
 ## Portfolio
 
-<hr>
 
 ### AtCoder-JsDebugger
 
