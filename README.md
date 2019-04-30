@@ -12,7 +12,6 @@
 
 [GitHub](https://github.com/s-yoshiki/AtCoder-JsDebugger)
 
-<hr>
 
 ### 画像処理100本ノックJS
 
@@ -22,7 +21,6 @@
 
 [GitHub](https://github.com/s-yoshiki/Gasyori100knockJS)
 
-<hr>
 
 ## About
 
