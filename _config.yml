@@ -9,3 +9,5 @@ title: s-yoshiki
 description: portfolio of s-yoshiki
 google_analytics: UA-103231688-4
 logo: https://ja.gravatar.com/userimage/115503673/c65df92a8b6d270c8eeb74f643b7e114.jpg
+plugins:
+  - jekyll-sitemap
