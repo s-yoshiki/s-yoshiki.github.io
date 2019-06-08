@@ -11,6 +11,8 @@
 
 ### [画像処理100本ノックJS](https://s-yoshiki.github.io/Gasyori100knockJS/#/)
 
+![](/_images/gasyori100knockJS.gif)
+
 画像処理100本ノックをJavaScriptで挑戦してみました。
 
 [GitHub](https://github.com/s-yoshiki/Gasyori100knockJS)
