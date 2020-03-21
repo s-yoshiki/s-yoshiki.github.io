@@ -23,3 +23,7 @@
 - [blog](https://tech-blog.s-yoshiki.com)
 - [Twitter](https://twitter.com/s_yoshiki_dev)
 - [GitHub](https://github.com/s-yoshiki)
+
+
+<!-- adsense -->
+<script data-ad-client="ca-pub-5931776908676811" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
