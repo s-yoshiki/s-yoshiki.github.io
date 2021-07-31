@@ -2,6 +2,7 @@ baseURL = "https://s-yoshiki.github.io/"
 languageCode = "en-us"
 title = "s-yoshiki.github.io"
 theme = "lekh"
+publishDir = "docs"
 
 [params]
 Name = "s-yoshiki"
