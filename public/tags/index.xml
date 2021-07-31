@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on s-yoshiki.github.io</title>
+    <link>https://s-yoshiki.github.io/tags/</link>
+    <description>Recent content in Tags on s-yoshiki.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://s-yoshiki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript</title>
+      <link>https://s-yoshiki.github.io/tags/javascript/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-yoshiki.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plugins</title>
+      <link>https://s-yoshiki.github.io/tags/plugins/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-yoshiki.github.io/tags/plugins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spf13-vim</title>
+      <link>https://s-yoshiki.github.io/tags/spf13-vim/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-yoshiki.github.io/tags/spf13-vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://s-yoshiki.github.io/tags/vim/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-yoshiki.github.io/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.vimrc</title>
+      <link>https://s-yoshiki.github.io/tags/.vimrc/</link>
+      <pubDate>Tue, 28 Nov 2017 16:06:58 +0900</pubDate>
+      
+      <guid>https://s-yoshiki.github.io/tags/.vimrc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

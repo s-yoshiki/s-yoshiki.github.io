@@ -1,0 +1,40 @@
+baseURL = "https://s-yoshiki.github.io/"
+languageCode = "en-us"
+title = "s-yoshiki.github.io"
+theme = "lekh"
+
+[params]
+Name = "s-yoshiki"
+About = "Web Application Enginner. AWS Solusion Architect"
+# Email = "agentsmith@thematrix.com"
+Resume = "" # Add the filename with file extension.
+PostLimit = 0 # Sets the number of posts to display on the front page
+GoatCounterCode = "1"
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/s-yoshiki"
+
+[[params.profiles]]
+name = "Twitter"
+url = "https://twitter.com/s_yoshiki_dev"
+
+[[params.profiles]]
+name = "Qiita"
+url = "https://qiita.com/s-yoshiki"
+
+[[params.profiles]]
+name = "Zenn"
+url = "https://zenn.dev/s_yoshiki"
+
+[[params.profiles]]
+name = "Blog (https://tech-blog.s-yoshiki.com/)"
+url = "https://tech-blog.s-yoshiki.com/"
+
+# [[params.profiles]]
+# name = "Goodreads"
+# url = "https://www.goodreads.com/user/show/91520565-rahul-tiwari"
+
+# [[params.profiles]]
+# name = "LinkedIn"
+# url = ""

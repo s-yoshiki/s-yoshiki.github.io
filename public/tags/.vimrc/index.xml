@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.vimrc on s-yoshiki.github.io</title>
+    <link>https://s-yoshiki.github.io/tags/.vimrc/</link>
+    <description>Recent content in .vimrc on s-yoshiki.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Nov 2017 16:06:58 +0900</lastBuildDate><atom:link href="https://s-yoshiki.github.io/tags/.vimrc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWSを利用したブログ構築 - tech-blog.s-yoshiki.com</title>
+      <link>https://s-yoshiki.github.io/posts/tech-blog-s-yoshiki-com/</link>
+      <pubDate>Tue, 28 Nov 2017 16:06:58 +0900</pubDate>
+      
+      <guid>https://s-yoshiki.github.io/posts/tech-blog-s-yoshiki-com/</guid>
+      <description>AWS のサービスを活用した&lt;a href=&#34;https://tech-blog.s-yoshiki.com/&#34;&gt;ブログ&lt;/a&gt;およびCI/CDの構築 (AWS / EC2 / S3 / CloudFront / GitHub Actions / Gatsby / React)</description>
+    </item>
+    
+  </channel>
+</rss>

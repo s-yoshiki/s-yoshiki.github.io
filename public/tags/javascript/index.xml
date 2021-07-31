@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on s-yoshiki.github.io</title>
+    <link>https://s-yoshiki.github.io/tags/javascript/</link>
+    <description>Recent content in JavaScript on s-yoshiki.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://s-yoshiki.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScriptによる画像処理 - 画像処理100本ノックJS</title>
+      <link>https://s-yoshiki.github.io/posts/gasyori100knock-js/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-yoshiki.github.io/posts/gasyori100knock-js/</guid>
+      <description>画像処理100本ノックに出てくるアルゴリズムをJSで0から実装しました。 (JavaScript / Vue / Canvas) &lt;a href=&#34;https://s-yoshiki.github.io/Gasyori100knockJS/#/list&#34;&gt;DEMO&lt;/a&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
